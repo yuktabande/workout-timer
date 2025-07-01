@@ -1,3 +1,32 @@
+# Workout Timer ⏱️
+
+A customizable workout timer built with React. Select your workout type, number of sets, exercise speed, and break duration. Includes sound effects and a toggle for sound.
+
+## Features
+
+- Choose from multiple workout types (Full-body, Arms, Legs, Core)
+- Adjust number of sets, exercise speed, and break length
+- Real-time timer calculation
+- Sound effects with toggle
+- Responsive and modern UI
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v14 or higher recommended)
+- npm (comes with Node.js)
+
+### Installation
+
+Clone the repository and install dependencies:
+
+```sh
+git clone https://github.com/your-username/workout-timer.git
+cd workout-timer
+npm install
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
